@@ -14,8 +14,10 @@ A basic repo for Lubbock CSS information
 
 #HTML basics
 
-	* Page 1- Run down of different IDEs(visual code, notepad etc.) to use. Some extensions to those IDEs. Basic tags of HTML, how to close tags, etc.
-	* Page 2- A run through of how to upload an img using <img>, how to add text using <p>, how to add a header using <h1-9>.
+	* Page 1- Run down of different IDEs(visual code, notepad etc.) to use.
+		* Some extensions to those IDEs. Basic tags of HTML, how to close tags, etc.
+	* Page 2- A run through of how to upload an img using <img>, 
+		*how to add text using <p>, how to add a header using <h1-9>.
  	* Page 3- A run down of <div>s, class, id, title. 
 
 
@@ -36,7 +38,8 @@ A basic repo for Lubbock CSS information
 	* Page 2 - How to create a speech bubble.
 	* Page 3 - Multiple backgrounds on one page. Positioning. 
 	* Page 4 - Transitions. Gradients.
-	* Page 5 - Efficient CSS writing. Newbie vs Advance CSS writing. Making use of nesting. The Importance of comments.
+	* Page 5 - Efficient CSS writing. Newbie vs Advance CSS writing. 
+		*Making use of nesting. The Importance of comments.
 
 
 
@@ -50,7 +53,9 @@ A basic repo for Lubbock CSS information
 #Javascript Basics
 
 	* Page 1 - What is javscript and what it's purpose?
-	* Page 2 - "Hello World" example and tutorial. Purpose of each variable, tag, how to call variables on screen.
+	* Page 2 - "Hello World" example and tutorial. 
+		*Purpose of each variable, tag, 
+		*how to call variables on screen.
 	* Page 3 - 
 	
 #Credits
