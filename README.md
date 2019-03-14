@@ -6,7 +6,9 @@ A basic repo for Lubbock CSS information
 #ToDo	
 
 	* 1-Color Scheme. #28 on [Color Scheme](https://www.canva.com/learn/website-color-schemes/) is nice.
-	* 2-Logos (Something Modern, and minimalism. Though I'm up for anything abstract, post-modern. / Just professional is the only quality that we should highlight. As this is p     lanned for Resumes.) / If you can work photoshop, remember using your Southplains college email can get photoshop and illustrator for 20$ a month. 
+	* 2-Logos (Something Modern, and minimalism. Though I'm up for anything abstract, post-modern. 
+		*Just professional is the only quality that we should highlight. As this is planned for Resumes.) 
+		* If you can work photoshop, remember using your Southplains college email can get photoshop and illustrator for 20$ a month. 
 	* 3-
 
 	
