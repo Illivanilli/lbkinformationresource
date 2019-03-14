@@ -22,34 +22,34 @@ A basic repo for Lubbock CSS information
 	* Page 1 -What is CSS and what does it do?
 	* Page 2 -How to link a CSS page to a html page.
 	* Page 3 -Selectors. How to call a class, id, title, html tag.
-	* Page 4 - Difference between Class, ID, Title, Name etc.
-	* Page 5 - Different ways to position. Float, Position, Align etc.
-	* Page 6 - <ul> <li> <ul>, And different ways to style a list. 
+	* Page 4 -Difference between Class, ID, Title, Name etc.
+	* Page 5 -Different ways to position. Float, Position, Align etc.
+	* Page 6 -<ul> <li> <ul>, And different ways to style a list. 
 
 	
 
 #CSS Advanced 
-	# Page 1 - Flexbox, Grid, Box model.
-	# Page 2 - How to create a speech bubble.
-	# Page 3 - Multiple backgrounds on one page. Positioning. 
-	# Page 4 - Transitions. Gradients.
-	# Page 5 - Efficient CSS writing. Newbie vs Advance CSS writing. Making use of nesting. The Importance of comments.
+	* Page 1 - Flexbox, Grid, Box model.
+	* Page 2 - How to create a speech bubble.
+	* Page 3 - Multiple backgrounds on one page. Positioning. 
+	* Page 4 - Transitions. Gradients.
+	* Page 5 - Efficient CSS writing. Newbie vs Advance CSS writing. Making use of nesting. The Importance of comments.
 
 
 
 #CSS Tips and Tricks 
-	# Page 1 - short hand CSS
-	# Page 2 - . 
-	# Page 3 -
+	* Page 1 - short hand CSS
+	* Page 2 - 
+	* Page 3 -
 		
 
 #Javascript Basics
-	# Page 1 - What is javscript and what it's purpose?
-	# Page 2 - "Hello World" example and tutorial. Purpose of each variable, tag, how to call variables on screen.
-	# Page 3 - 
+	* Page 1 - What is javscript and what it's purpose?
+	* Page 2 - "Hello World" example and tutorial. Purpose of each variable, tag, how to call variables on screen.
+	* Page 3 - 
 	
 #Credits
-	# Page 1 - A whole credit page with a clickable A-Z. Alphabetical listing.
-	# Page 2 - A self styled credit page. Creator has free reign with this page. 
+	* Page 1 - A whole credit page with a clickable A-Z. Alphabetical listing.
+	* Page 2 - A self styled credit page. Creator has free reign with this page. 
 	
  
