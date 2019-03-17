@@ -58,7 +58,11 @@ A basic repo for Lubbock CSS information
 	* Page 2 - "Hello World" example and tutorial. 
 		*Purpose of each variable, tag, 
 		*how to call variables on screen.
-	* Page 3 - 
+	* Page 3 - Javascript Statements.
+
+# CSharp 
+	* Page 1 - What is C#, and what can be done with Csharp?
+	
 	
 #Credits
 
