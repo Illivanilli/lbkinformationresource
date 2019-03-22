@@ -1,68 +1,16 @@
 body {
-    background-color: whitesmoke;
+    background-color: #3D405B;
 }
-aside {
-    float:left;
-    height:100%;
-    width: 110px;
-    background-color: black;
-}
+
+
 .titleContainer{
-    display:grid;
-    grid-template-columns: 35px 50px auto 50px 35px;
-    grid-template-rows: 20% 20% 20% 20% auto;
-    grid-gap: 35px;
-    border-radius: 40%;
-   
-    border: solid black 2px;
-}
+   display: grid;
+   grid-template-rows: auto;
+   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 
-#mainTitle {
-    grid-column-start: 3;
-    grid-row-start: 2;
 
 }
 
-h1 {
-    font-family: 'Raleway', sans-serif;
-    text-align: center;
-    margin-top:0;
-    font-size: 100px;
-    color:#F06718;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-    
-}
-
-#and {
-    grid-column-start: 3;
-    grid-row-start: 3;
-    text-align: center;
-}
-h2 {
-    font-family: 'Raleway', sans-serif;
-    font-size: 115px;
-    margin-top:0;
-    color :#F06718;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-#css {
-    grid-column-start: 3;
-    grid-row-start: 4;
-    text-align: center;
-
-}
-h3 {
-    font-family: 'Raleway', sans-serif;
-    font-size: 115px;
-    margin-top:0;
-    color :#F06718;
-    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-}
-
-#leftLinks {
-    grid-column-start:2;
-    grid-row-start: 4;
-}
-#rightLinks {
-
+.img {
+    background-image: url(../images/logoExample.psd);
 }
